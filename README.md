@@ -1,6 +1,5 @@
 # politohh.github.io
 
-  Static Website i did in 2 days for my friend's portfolio to train my CSS skills and UX/UI Design rule
- thanks to him for trusting me in this small project.
+Site vitrine réalisé en 2-3 jours pour un ami moddeur de jeu vidéo afin de mettre en pratique mes compétences en Design UX/UI
 
- ## Visit the Website here : <a  href='https://politohh.github.io' target="_blank">Website</a>
+ ## Visiter le site : <a  href='https://politohh.github.io' target="_blank">Website</a>
